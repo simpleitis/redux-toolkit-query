@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Miss Edward Koepp",
+      "id": 2
+    },
+    {
+      "name": "Karl Mertz",
+      "id": 3
+    },
+    {
+      "name": "Judith O'Reilly",
+      "id": 4
+    },
+    {
+      "name": "Debbie Wuckert",
+      "id": 5
+    },
+    {
+      "name": "Delores Prosacco Sr.",
+      "id": 6
+    }
+  ],
+  "albums": [],
+  "photos": []
+}

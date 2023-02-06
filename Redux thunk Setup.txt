@@ -1,0 +1,12 @@
+Redux thunk is part of redux tool kit
+
+Creat a folder called 'thunks' inside the 'store' folder and create file 'fetchUsers.js' and write out the thunk
+
+Import the thunk into the slice and listen for action objects dispatched by thunk. The action objects are fetchUsers.pending, fetchUsers.fulfilled and fetchUsers.rejected
+
+export thunk from 'index.js'
+
+import the thunk in the file you want to make the network request, in this case it is the 'UsersList', then from the file dispatch the thunk to make the actual network request
+
+
+
