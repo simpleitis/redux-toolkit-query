@@ -4,9 +4,9 @@ Creat a folder called 'thunks' inside the 'store' folder and create file 'fetchU
 
 Import the thunk into the slice and listen for action objects dispatched by thunk. The action objects are fetchUsers.pending, fetchUsers.fulfilled and fetchUsers.rejected
 
-export thunk from 'index.js'
+export thunk from 'index.js' inside the store folder
 
-import the thunk in the file you want to make the network request, in this case it is the 'UsersList', then from the file dispatch the thunk to make the actual network request
+use the 'use-thunk' inside different files to make use of thunks such as fetchUsers, addUser and removeUser
 
 
 

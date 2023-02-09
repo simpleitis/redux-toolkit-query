@@ -1,30 +1,101 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
+      "name": "Dana Herzog",
+      "id": 1
     },
     {
-      "name": "Miss Edward Koepp",
+      "name": "Casey Macejkovic",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Handcrafted Steel Hat",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Modern Wooden Keyboard",
       "id": 2
     },
     {
-      "name": "Karl Mertz",
+      "userId": 1,
+      "title": "Refined Plastic Fish",
       "id": 3
     },
     {
-      "name": "Judith O'Reilly",
+      "userId": 2,
+      "title": "Handmade Granite Tuna",
+      "id": 4
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=91999",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=96151",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=83026",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7953",
       "id": 4
     },
     {
-      "name": "Debbie Wuckert",
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=62760",
       "id": 5
     },
     {
-      "name": "Delores Prosacco Sr.",
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39721",
       "id": 6
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=27477",
+      "id": 7
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=52037",
+      "id": 8
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=33806",
+      "id": 9
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94996",
+      "id": 10
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=78911",
+      "id": 11
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=30735",
+      "id": 12
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=56934",
+      "id": 13
     }
-  ],
-  "albums": [],
-  "photos": []
+  ]
 }
